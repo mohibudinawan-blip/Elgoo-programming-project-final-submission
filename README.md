@@ -14,7 +14,7 @@ HARDWARE ISSUES:
 -ultrasonic sensor has issues with consistently reading the correct light levels. For example the sensor is placed on an area that has a light level of 50, it will momentarily output 300 even though the reading should be 50. A fix for this is creating a special case where the robot discards the outlier reading so it behaves as expected.
 
 INSTRUCTIONS:
--Open a terminal (Git Bash, PowerShell) and type "git clone https://github.com/mohsenmirza-create/UNO-R3-BOT.git". This will clone the git repository.
+-Open a terminal (Git Bash, PowerShell) and type "git clone https://github.com/mohibudinawan-blip/Elgoo-programming-project-final-submission.git". This will clone the git repository.
 -Open Arduino IDE and connect the R3 with your device via blue cable.
 -Make sure you have the corrects boards installed, it should be labeled "Arduino UNO".
 -Once connected, to upload your code click the arrow at the top left.
